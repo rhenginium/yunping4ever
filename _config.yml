@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 栾云平资源集中站 beta
 subtitle:
 description:
 keywords:
-author: John Doe
-language:
-timezone:
+author: yunping4ever comittee
+language: zh-CN
+timezone: Asia/Beijing
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:title/
 permalink_defaults:
 
 # Directory
@@ -56,7 +56,27 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+    相声
+    综艺
+    直播
+    访谈
+    其他
 tag_map:
+    南德
+    湖广
+    天桥
+    三里屯
+    龙字科招生
+    德云斗笑社
+    京剧主持
+    直播
+    综艺
+    相声
+    青春德云社
+    杂志
+    访谈
+    报幕
+    欢乐喜剧人
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -73,7 +93,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

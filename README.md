@@ -1,21 +1,17 @@
-![Hexo Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/hexo.svg)
+### 栾云平资源集中处企划
 
-# Hexo Example
++ 建立一个独立blog用来存放栾云平相关资源，其中包括并不限于
+ + 相声
+ + 杂志
+ + 访谈
+ + 综艺
+ + 直播
+ + 其他
++ 相声按年份场次排序，每场作为单独文章，插入图片与视频的超链接（待授权），并打上年份、场地、搭档、场次名称等tag方便站内查寻
+ + 微博的搜索功能有时用起来不那么方便，有时想找的场次需要翻很久
+ + 如果可能的话，最理想的是制作出一个包含所有资源的网盘，每一个场次都制作单独的网盘下载链接（为防止网盘失效，每个分享单独设密码并将密码写在超链接上）（目前暂时无法实现）
 
-This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed with Vercel and zero configuration.
-
-## Deploy Your Own
-
-Deploy your own Hexo project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/hexo)
-
-_Live Example: https://hexo.now-examples.now.sh_
-
-### How We Created This Example
-
-To get started with Hexo for deployment with Vercel, you can use the [Hexo CLI](https://hexo.io/docs/index.html#Installation) to initialize the project:
-
-```shell
-$ hexo init project-name
-```
+Categories：
+    相声目录-年份
+    杂志访谈
+    综艺与直播
