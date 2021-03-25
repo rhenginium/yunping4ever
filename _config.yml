@@ -5,11 +5,11 @@
 # Site
 title: 栾云平资源站 beta
 subtitle:
-description: 相声演义栾云平的资源小站
+description: 相声演员栾云平的资源小站
 keywords:
 author: yunping4ever
 language: zh-CN
-timezone: Asia/Beijing
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
