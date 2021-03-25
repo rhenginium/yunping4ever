@@ -1,7 +1,7 @@
 ---
-title: 吾尚WI-Style电子刊
+title:2020 吾尚WI-Style电子刊
 categories: 访谈
-tags: [杂志, 采访, 写真]
+tags: [写真]
 
 ---
 
