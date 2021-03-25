@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 栾云平资源集中站 beta
+title: 栾云平资源站 beta
 subtitle:
 description:
 keywords:
@@ -88,7 +88,7 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 7
+per_page: 15
 pagination_dir: page
 
 # Extensions
