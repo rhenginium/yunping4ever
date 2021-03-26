@@ -60,16 +60,8 @@
               {%- endif %}
 
               <time title="{{ create_title }}" itemprop="dateCreated datePublished" datetime="{{ moment(post.date).format() }}">{{ date(post.date) }}</time>
-			 </span>
-			 
-			 {%if post.updated and post.updated > post.date%}
-				<span class="post-updated">
-				&nbsp; | &nbsp; {{ __('post.updated') }}
-				<time itemprop="dateUpdated" datetime="{{ moment(post.updated).format() }}" content="{{ date(post.updated, config.date_format) }}">
-				{{ date(post.updated, config.date_format) }}
-				</time>
-				</span>
-			{% endif %}
+            </span>
+          {%- endif %}
 
           {%- if theme.post_meta.updated_at.enable and datetime_diff %}
             {%- set display_updated = not theme.post_meta.updated_at.another_day or theme.post_meta.updated_at.another_day and date_diff %}
@@ -84,8 +76,6 @@
               </span>
             {%- endif %}
           {%- endif %}
-		  
-		  
 
           {%- if post.categories and post.categories.length and theme.post_meta.categories %}
             <span class="post-meta-item">
