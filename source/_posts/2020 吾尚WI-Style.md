@@ -1,6 +1,6 @@
 ---
 title: 2020_吾尚WI-Style电子刊
-date: 2019-09-01
+date: 2020-06-01
 updated: 2020-06-01
 categories: 访谈
 tags: [写真]
