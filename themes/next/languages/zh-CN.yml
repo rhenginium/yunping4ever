@@ -59,13 +59,13 @@ state:
 search:
   placeholder: 搜索...
 cheers:
-  um: 
-  ok: 
-  nice: 
-  good: 
-  great: 
-  excellent: 
-keep_on: 
+  um: " "
+  ok: " "
+  nice: " "
+  good: " "
+  great: " "
+  excellent: " "
+keep_on: " "
 symbol:
   comma: "，"
   period: "。"
