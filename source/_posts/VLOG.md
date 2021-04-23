@@ -11,3 +11,5 @@ tags: [报幕, 主持]
 [栾尔赛的一天](https://m.weibo.cn/1835110811/4602396322043892)
 
 [烧饼VLOG](https://m.weibo.cn/detail/4316342762632911)
+
+[德云社VLOG大合集](https://www.bilibili.com/video/BV1Kx411175g?p=1)
