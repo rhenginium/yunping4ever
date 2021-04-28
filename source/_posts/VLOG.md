@@ -3,7 +3,7 @@ title: VLOG
 date: 2021
 updated: 2021
 categories: 其他
-tags: [报幕, 主持]
+tags: [vlog, 抖音]
 ---
 
 ![](https://raw.githubusercontent.com/rhenginium/image/main/Screenshot_20210325_120311.jpg)
