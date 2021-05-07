@@ -8,6 +8,8 @@ tags: [微博]
 
 ![](https://raw.githubusercontent.com/rhenginium/image/main/20210505122322.png)
 
+<!--more-->
+
 ![](https://raw.githubusercontent.com/rhenginium/image/main/20210505122359.png)
 
 ![](https://raw.githubusercontent.com/rhenginium/image/main/20210505122520.png)
