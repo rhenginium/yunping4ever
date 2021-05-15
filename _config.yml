@@ -76,12 +76,6 @@ utteranc:
   theme: github-light
   cdn: https://utteranc.es/client.js
   
-#Cloud calendar
-  CloudCalendar:
-  enable: true
-  language: zh-CN #设置语言
-  single: true
-  root: /calendar/
   
 # https://github.com/viko16/hexo-permalink-pinyin
 permalink_pinyin:
