@@ -52,10 +52,11 @@
   {% include '_third-party/math/index.swig' %}
   {% include '_third-party/quicklink.swig' %}
 
+
   {{- next_inject('bodyEnd') }}
   {%- if theme.pjax %}
     </div>
   {%- endif %}
 </body>
 </html>
-{% include 'calendar.swig' %}
+{% include '../source/lib/calendar/calendar.swig' %}
