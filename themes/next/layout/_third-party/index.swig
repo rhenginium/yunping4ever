@@ -8,6 +8,9 @@
   {% include 'search/swiftype.swig' %}
 {% elif theme.local_search.enable %}
   {% include 'search/localsearch.swig' %}
+ {% elif theme.utterance.enable %}
+  {% include 'utterance.swig' %}
+
 {%- endif %}
 
 {% include 'chat/chatra.swig' %}
@@ -15,3 +18,4 @@
 
 {% include 'tags/pdf.swig' %}
 {% include 'tags/mermaid.swig' %}
+

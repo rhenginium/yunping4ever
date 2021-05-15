@@ -70,7 +70,7 @@ time_format: HH:mm:ss
 #Utterance
 utteranc:
   enable: true
-  repo: rhenginium/yunping4ever.github.io
+  repo: rhenginium/yunping4ever
   pathname: pathname
   # theme: github-light,github-dark,github-dark-orange
   theme: github-light
