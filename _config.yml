@@ -67,7 +67,16 @@ tag_map:
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
-
+#Utterance
+utteranc:
+  enable: true
+  repo: rhenginium/yunping4ever.github.io
+  pathname: pathname
+  # theme: github-light,github-dark,github-dark-orange
+  theme: github-light
+  cdn: https://utteranc.es/client.js
+  
+  
 # https://github.com/viko16/hexo-permalink-pinyin
 permalink_pinyin:
   enable: true
