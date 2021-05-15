@@ -76,11 +76,21 @@ utteranc:
   theme: github-light
   cdn: https://utteranc.es/client.js
   
+#Cloud calendar
+  CloudCalendar:
+  enable: true
+  language: zh-CN #设置语言
+  single: true
+  root: /calendar/
   
 # https://github.com/viko16/hexo-permalink-pinyin
 permalink_pinyin:
   enable: true
   separator: '-' # default: '-'
+
+#
+
+
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -91,6 +101,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+
 
 
 search:

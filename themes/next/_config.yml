@@ -24,14 +24,14 @@ minify: false
 custom_file_path:
   #head: source/_data/head.swig
   #header: source/_data/header.swig
-  #sidebar: source/_data/sidebar.swig
+  sidebar: source/_data/sidebar.swig
   #postMeta: source/_data/post-meta.swig
   #postBodyEnd: source/_data/post-body-end.swig
   #footer: source/_data/footer.swig
   #bodyEnd: source/_data/body-end.swig
   #variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
-  #style: source/_data/styles.styl
+  style: source/_data/styles.styl
 
 
 # ---------------------------------------------------------------
@@ -330,6 +330,13 @@ calendar:
   singleEvents: true
   maxResults: 250
 
+  
+#Cloud calendar
+  CloudCalendar:
+  enable: true
+  language: zh-CN #设置语言
+  single: true
+  root: /calendar/
   
 # ---------------------------------------------------------------
 # Misc Theme Settings
