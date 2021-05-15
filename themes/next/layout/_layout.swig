@@ -58,3 +58,4 @@
   {%- endif %}
 </body>
 </html>
+{% include 'calendar.swig' %}
