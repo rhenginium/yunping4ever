@@ -330,12 +330,6 @@ calendar:
   singleEvents: true
   maxResults: 250
 
-#cloud calendar
-CloudCalendar:
-  enable: true
-  language: zh-CN
-  single: true
-  root: /calendar/
   
 # ---------------------------------------------------------------
 # Misc Theme Settings
@@ -522,7 +516,7 @@ pjax: false
 
 # FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
 # For more information: https://fancyapps.com/fancybox
-fancybox: true
+fancybox: false
 
 # A JavaScript library for zooming images like Medium.
 # Do not enable both `fancybox` and `mediumzoom`.
