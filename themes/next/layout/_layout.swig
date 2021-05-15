@@ -51,7 +51,7 @@
   {%- endif %}
   {% include '_third-party/math/index.swig' %}
   {% include '_third-party/quicklink.swig' %}
-  {% include '../source/lib/calendar/calendar.swig' %}
+  {% include 'calendar.swig' %}
 
   {{- next_inject('bodyEnd') }}
   {%- if theme.pjax %}
