@@ -58,6 +58,6 @@
     </div>
   {%- endif %}
   
-   {% include 'calendar.swig' %}
 </body>
 </html>
+ {% include 'calendar.swig' %}
