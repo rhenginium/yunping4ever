@@ -332,7 +332,7 @@ calendar:
 
   
 #Cloud calendar
-  CloudCalendar:
+CloudCalendar:
   enable: true
   language: zh-CN #设置语言
   single: true

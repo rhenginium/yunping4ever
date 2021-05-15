@@ -60,4 +60,4 @@
   
 </body>
 </html>
- {% include 'calendar.swig' %}
+{% include 'calendar.swig' %}
