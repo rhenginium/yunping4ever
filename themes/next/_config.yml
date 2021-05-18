@@ -330,7 +330,13 @@ calendar:
   singleEvents: true
   maxResults: 250
 
-  
+# 日历云
+CloudCalendar:
+  enable: true
+  language: zh-CN
+  single: true
+  root: /calendar/
+
 # ---------------------------------------------------------------
 # Misc Theme Settings
 # ---------------------------------------------------------------
