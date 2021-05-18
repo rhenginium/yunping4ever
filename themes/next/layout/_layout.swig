@@ -61,4 +61,3 @@
 </body>
 </html>
 
-{% include '_third-party/CloudCalendar.swig' %}

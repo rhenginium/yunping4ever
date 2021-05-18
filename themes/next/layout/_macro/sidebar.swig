@@ -37,10 +37,7 @@
         {{- next_inject('sidebar') }}
       </div>
 	  
-		<!-- CloudCalendar -->
-		<div class="widget-wrap" style="width: 90%;margin-left: auto;margin-right: auto; opacity: 0.97;">
-			<div class="widget" id="CloudCalendar"></div>
-		</div>
+		
 	
       {%- if theme.back2top.enable and theme.back2top.sidebar %}
         <div class="back-to-top motion-element">
